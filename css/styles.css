@@ -2503,6 +2503,10 @@ textarea.form-control-lg {
   border-width: 0.125rem 0;
 }
 
+.git-link {
+color: #fff;
+text-decoration: none;
+}
 .input-group {
   position: relative;
   display: flex;
